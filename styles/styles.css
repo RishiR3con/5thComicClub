@@ -10,3 +10,13 @@ body {
 .logo {
   width: 200px;
 }
+
+li {
+    list-style: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    
+}
