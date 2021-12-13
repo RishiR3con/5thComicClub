@@ -28,6 +28,9 @@ li {
 
 footer {
     bottom: 0;
+    position: absolute;
+    width: 100vw;
+    height: 2.5rem;
 }
 
 .icon {
