@@ -71,6 +71,7 @@ h2 {
 .episodes {
     position: relative;
     margin-bottom: 20em;
+    padding-bottom: 1rem;
 }
 
 .comic_cover_1 {
@@ -78,6 +79,7 @@ h2 {
     left: 74px;
     top: 0;
     position: absolute;
+    
 }
 
 .comic_cover_2 {
@@ -88,5 +90,5 @@ h2 {
 }
 
 p {
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
 }
